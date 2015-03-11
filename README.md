@@ -1,1 +1,2 @@
-# GroupRank
+GroupRank Development Readme
+=============================
